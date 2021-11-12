@@ -1,0 +1,9 @@
+main.java.app.dao
+main.java.app.dao.impl
+main.java.app.entity
+main.java.app.entity.criteria
+main.java.app.main
+main.java.app.service
+main.java.app.service.impl
+main.java.app.service.validation
+test.java
