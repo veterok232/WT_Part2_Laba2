@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17" class="java.beans.XMLDecoder">
+    <object class="main.java.app.entity.Oven">
+        <void property="name">
+            <string>Oven 1</string>
+        </void>
+        <void property="price">
+            <double>400</double>
+        </void>
+        <void property="powerConsumption">
+            <double>1000</double>
+        </void>
+        <void property="weight">
+            <double>10</double>
+        </void>
+        <void property="capacity">
+            <double>32</double>
+        </void>
+        <void property="depth">
+            <double>60</double>
+        </void>
+        <void property="height">
+            <double>45.5</double>
+        </void>
+        <void property="width">
+            <double>59.5</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Oven">
+        <void property="name">
+            <string>Oven 2</string>
+        </void>
+        <void property="price">
+            <double>500</double>
+        </void>
+        <void property="powerConsumption">
+            <double>1500</double>
+        </void>
+        <void property="weight">
+            <double>12</double>
+        </void>
+        <void property="capacity">
+            <double>33</double>
+        </void>
+        <void property="depth">
+            <double>60</double>
+        </void>
+        <void property="height">
+            <double>45</double>
+        </void>
+        <void property="width">
+            <double>68</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Oven">
+        <void property="name">
+            <string>Oven 3</string>
+        </void>
+        <void property="price">
+            <double>450</double>
+        </void>
+        <void property="powerConsumption">
+            <double>2000</double>
+        </void>
+        <void property="weight">
+            <double>11</double>
+        </void>
+        <void property="capacity">
+            <double>33</double>
+        </void>
+        <void property="depth">
+            <double>60</double>
+        </void>
+        <void property="height">
+            <double>40</double>
+        </void>
+        <void property="width">
+            <double>70</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Laptop">
+        <void property="name">
+            <string>Laptop 1</string>
+        </void>
+        <void property="price">
+            <double>1200</double>
+        </void>
+        <void property="batteryCapacity">
+            <double>1</double>
+        </void>
+        <void property="os">
+            <string>Windows</string>
+        </void>
+        <void property="memoryRom">
+            <double>4000</double>
+        </void>
+        <void property="systemMemory">
+            <double>1000</double>
+        </void>
+        <void property="cpu">
+            <double>1.2</double>
+        </void>
+        <void property="displayInches">
+            <double>18</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Laptop">
+        <void property="name">
+            <string>Laptop 2</string>
+        </void>
+        <void property="price">
+            <double>1500</double>
+        </void>
+        <void property="batteryCapacity">
+            <double>1.5</double>
+        </void>
+        <void property="os">
+            <string>Linux</string>
+        </void>
+        <void property="memoryRom">
+            <double>8000</double>
+        </void>
+        <void property="systemMemory">
+            <double>1000</double>
+        </void>
+        <void property="cpu">
+            <double>2.2</double>
+        </void>
+        <void property="displayInches">
+            <double>19</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Laptop">
+        <void property="name">
+            <string>Laptop 3</string>
+        </void>
+        <void property="price">
+            <double>800</double>
+        </void>
+        <void property="batteryCapacity">
+            <double>3</double>
+        </void>
+        <void property="os">
+            <string>Windows</string>
+        </void>
+        <void property="memoryRom">
+            <double>8000</double>
+        </void>
+        <void property="systemMemory">
+            <double>1500</double>
+        </void>
+        <void property="cpu">
+            <double>3.2</double>
+        </void>
+        <void property="displayInches">
+            <double>22</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Refrigerator">
+        <void property="name">
+            <string>Refrigerator 1</string>
+        </void>
+        <void property="price">
+            <double>350</double>
+        </void>
+        <void property="powerConsumption">
+            <double>100</double>
+        </void>
+        <void property="weight">
+            <double>20</double>
+        </void>
+        <void property="freezerCapacity">
+            <double>10</double>
+        </void>
+        <void property="overallCapacity">
+            <double>300</double>
+        </void>
+        <void property="height">
+            <double>200</double>
+        </void>
+        <void property="width">
+            <double>70</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Refrigerator">
+        <void property="name">
+            <string>Refrigerator 2</string>
+        </void>
+        <void property="price">
+            <double>900</double>
+        </void>
+        <void property="powerConsumption">
+            <double>200</double>
+        </void>
+        <void property="weight">
+            <double>30</double>
+        </void>
+        <void property="freezerCapacity">
+            <double>15</double>
+        </void>
+        <void property="overallCapacity">
+            <double>300</double>
+        </void>
+        <void property="height">
+            <double>180</double>
+        </void>
+        <void property="width">
+            <double>80</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Refrigerator">
+        <void property="name">
+            <string>Refrigerator 3</string>
+        </void>
+        <void property="price">
+            <double>1100</double>
+        </void>
+        <void property="powerConsumption">
+            <double>150</double>
+        </void>
+        <void property="weight">
+            <double>35</double>
+        </void>
+        <void property="freezerCapacity">
+            <double>20</double>
+        </void>
+        <void property="overallCapacity">
+            <double>350.5</double>
+        </void>
+        <void property="height">
+            <double>250</double>
+        </void>
+        <void property="width">
+            <double>75</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.VacuumCleaner">
+        <void property="name">
+            <string>VacuumCleaner 1</string>
+        </void>
+        <void property="price">
+            <double>70</double>
+        </void>
+        <void property="powerConsumption">
+            <double>100</double>
+        </void>
+        <void property="filterType">
+            <string>A</string>
+        </void>
+        <void property="bagType">
+            <string>A2</string>
+        </void>
+        <void property="wandType">
+            <string>all-in-one</string>
+        </void>
+        <void property="motorSpeedRegulation">
+            <double>300</double>
+        </void>
+        <void property="cleaningWidth">
+            <double>20</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.VacuumCleaner">
+        <void property="name">
+            <string>VacuumCleaner 2</string>
+        </void>
+        <void property="price">
+            <double>250</double>
+        </void>
+        <void property="powerConsumption">
+            <double>110</double>
+        </void>
+        <void property="filterType">
+            <string>B</string>
+        </void>
+        <void property="bagType">
+            <string>AA-89</string>
+        </void>
+        <void property="wandType">
+            <string>all-in-one</string>
+        </void>
+        <void property="motorSpeedRegulation">
+            <double>2900</double>
+        </void>
+        <void property="cleaningWidth">
+            <double>25</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.VacuumCleaner">
+        <void property="name">
+            <string>VacuumCleaner 3</string>
+        </void>
+        <void property="price">
+            <double>180</double>
+        </void>
+        <void property="powerConsumption">
+            <double>90</double>
+        </void>
+        <void property="filterType">
+            <string>C</string>
+        </void>
+        <void property="bagType">
+            <string>XX00</string>
+        </void>
+        <void property="wandType">
+            <string>all-in-one</string>
+        </void>
+        <void property="motorSpeedRegulation">
+            <double>2950</double>
+        </void>
+        <void property="cleaningWidth">
+            <double>30</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Kettle">
+        <void property="name">
+            <string>Kettle 1</string>
+        </void>
+        <void property="price">
+            <double>45</double>
+        </void>
+        <void property="powerConsumption">
+            <double>90</double>
+        </void>
+        <void property="capacity">
+            <double>1000</double>
+        </void>
+        <void property="height">
+            <double>50</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Kettle">
+        <void property="name">
+            <string>Kettle 2</string>
+        </void>
+        <void property="price">
+            <double>70</double>
+        </void>
+        <void property="powerConsumption">
+            <double>110</double>
+        </void>
+        <void property="capacity">
+            <double>900</double>
+        </void>
+        <void property="height">
+            <double>30</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Kettle">
+        <void property="name">
+            <string>Kettle 3</string>
+        </void>
+        <void property="price">
+            <double>100</double>
+        </void>
+        <void property="powerConsumption">
+            <double>130</double>
+        </void>
+        <void property="capacity">
+            <double>800</double>
+        </void>
+        <void property="height">
+            <double>50</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.TabletPC">
+        <void property="name">
+            <string>TabletPC 1</string>
+        </void>
+        <void property="price">
+            <double>510</double>
+        </void>
+        <void property="batteryCapacity">
+            <double>3</double>
+        </void>
+        <void property="displayInches">
+            <double>14</double>
+        </void>
+        <void property="memoryRom">
+            <double>8000</double>
+        </void>
+        <void property="flashMemoryCapacity">
+            <double>2</double>
+        </void>
+        <void property="color">
+            <string>blue</string>
+        </void>
+    </object>
+    <object class="main.java.app.entity.TabletPC">
+        <void property="name">
+            <string>TabletPC 2</string>
+        </void>
+        <void property="price">
+            <double>550</double>
+        </void>
+        <void property="batteryCapacity">
+            <double>4</double>
+        </void>
+        <void property="displayInches">
+            <double>15</double>
+        </void>
+        <void property="memoryRom">
+            <double>8000</double>
+        </void>
+        <void property="flashMemoryCapacity">
+            <double>6</double>
+        </void>
+        <void property="color">
+            <string>red</string>
+        </void>
+    </object>
+    <object class="main.java.app.entity.TabletPC">
+        <void property="name">
+            <string>TabletPC 3</string>
+        </void>
+        <void property="price">
+            <double>600</double>
+        </void>
+        <void property="batteryCapacity">
+            <double>5</double>
+        </void>
+        <void property="displayInches">
+            <double>16</double>
+        </void>
+        <void property="memoryRom">
+            <double>16000</double>
+        </void>
+        <void property="flashMemoryCapacity">
+            <double>8</double>
+        </void>
+        <void property="color">
+            <string>green</string>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Speakers">
+        <void property="name">
+            <string>Speaker 1</string>
+        </void>
+        <void property="price">
+            <double>45</double>
+        </void>
+        <void property="powerConsumption">
+            <double>15</double>
+        </void>
+        <void property="numberOfSpeakers">
+            <double>2</double>
+        </void>
+        <void property="frequencyRange">
+            <string>2-4</string>
+        </void>
+        <void property="cordLength">
+            <double>2</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Speakers">
+        <void property="name">
+            <string>Speaker 2</string>
+        </void>
+        <void property="price">
+            <double>60</double>
+        </void>
+        <void property="powerConsumption">
+            <double>20</double>
+        </void>
+        <void property="numberOfSpeakers">
+            <double>3</double>
+        </void>
+        <void property="frequencyRange">
+            <string>3-4</string>
+        </void>
+        <void property="cordLength">
+            <double>3</double>
+        </void>
+    </object>
+    <object class="main.java.app.entity.Speakers">
+        <void property="name">
+            <string>Speaker 3</string>
+        </void>
+        <void property="price">
+            <double>70</double>
+        </void>
+        <void property="powerConsumption">
+            <double>17</double>
+        </void>
+        <void property="numberOfSpeakers">
+            <double>4</double>
+        </void>
+        <void property="frequencyRange">
+            <string>2-3.5</string>
+        </void>
+        <void property="cordLength">
+            <double>4</double>
+        </void>
+    </object>
+</java>
